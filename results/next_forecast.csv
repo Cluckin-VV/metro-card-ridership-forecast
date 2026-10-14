@@ -1,0 +1,2 @@
+﻿date,information_cutoff,issue_date_assumption,prediction,lower90,upper90,high_probability,predicted_high,high_threshold,status,model,scope,interval_caveat
+2026-08-18,2026-08-16,2026-08-17,609263.5,405726.85845106235,812800.1415489377,0.9783057068899846,True,490553.0,ARCHIVED_SNAPSHOT_FORECAST_NOT_A_CURRENT_LIVE_FORECAST,seasonal_mean,Smart Cards + NCMC only; not all metro passengers,Nominal 90%; time dependence and drift mean no guaranteed future coverage

@@ -1,0 +1,10 @@
+{
+  "target": "智能卡与NCMC合计人次/日",
+  "observations": 460,
+  "test_days": 75,
+  "MAE": 29049.13,
+  "MAPE_percent": 7.956426000567955,
+  "forecast_date": "2026-08-18",
+  "prediction": 609263.5,
+  "note": "固定历史数据的演示预测，非当前实时预测"
+}

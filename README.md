@@ -44,4 +44,3 @@ The source downloader expects the original public-data location to remain availa
 - Keep missing-day assumptions and weak slices visible.
 - Package experiment code, tests and result evidence so another person can reproduce the reasoning.
 
-

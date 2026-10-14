@@ -1,0 +1,15 @@
+{
+  "date": "2026-08-18",
+  "information_cutoff": "2026-08-16",
+  "issue_date_assumption": "2026-08-17",
+  "prediction": 609263.5,
+  "lower90": 405726.85845106235,
+  "upper90": 812800.1415489377,
+  "high_probability": 0.9783057068899846,
+  "predicted_high": true,
+  "high_threshold": 490553.0,
+  "status": "ARCHIVED_SNAPSHOT_FORECAST_NOT_A_CURRENT_LIVE_FORECAST",
+  "model": "seasonal_mean",
+  "scope": "Smart Cards + NCMC only; not all metro passengers",
+  "interval_caveat": "Nominal 90%; time dependence and drift mean no guaranteed future coverage"
+}

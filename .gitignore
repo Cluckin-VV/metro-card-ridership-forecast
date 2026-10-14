@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+data/
+models/
+logs/
+reports/
+*.docx
+*.pptx
+*.xlsx
+.env
+.env.*
+
